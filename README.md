@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Mo-yasser123/Mo-yasser123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me: I'm Mohamed Yasser, an 18-year-old Computer Science & Information Technology student.
 
-Here are some ideas to get you started:
+What I'm Currently Doing: Focusing on my university studies, building my foundation in software development, and practicing through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Tech Stack: Currently exploring various tools and technologies, carefully selecting the best ones to master along my learning journey.
+
+Get in Touch:
+
+Email: [moyasser411974@gmail.com]
+
+LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-yasser-4284b2402/)]
+
+Twitter/X: [[Your Handle](https://x.com/MohamedYas4844)]
