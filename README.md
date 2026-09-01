@@ -17,3 +17,4 @@ Twitter/X: [[Your Handle](https://x.com/MohamedYas4844)]
 ## 🏆 Achievements & Badges
 
 - [![HackerOne Python Problem Solving Bronze](https://img.shields.io/badge/HackerOne-Python_Problem_Solving_Bronze-CD7F32?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/@moyasser411974)
+- [![HackerRank Python Badge](https://img.shields.io/badge/HackerRank-Python%20Bronze%20%E2%AD%90-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/moyasser411974?badge=python&stars=1&level=1)
