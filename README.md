@@ -13,3 +13,7 @@ Email: [moyasser411974@gmail.com]
 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-yasser-4284b2402/)]
 
 Twitter/X: [[Your Handle](https://x.com/MohamedYas4844)]
+
+## 🏆 Achievements & Badges
+
+- [![HackerOne Python Problem Solving Bronze](https://img.shields.io/badge/HackerOne-Python_Problem_Solving_Bronze-CD7F32?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/@moyasser411974)
